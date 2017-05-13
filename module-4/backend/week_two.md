@@ -5,6 +5,7 @@ Fork this respository. Answer the questions to the best of your ability. Try to 
 Note: When you're done, submit a PR. 
 
 1. What is Webpack and why is it useful?
+<p>Webpack is a tool used to translate javascript html and css into something that your browser can easliy interpret.</p>
 2. When do you want to use event delegation?
 3. What's one difference between ES5 and ES6?
 4. What's the deal with semi-colons in JavaScript?
